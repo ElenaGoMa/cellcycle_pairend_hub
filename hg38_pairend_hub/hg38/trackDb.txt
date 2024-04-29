@@ -1,0 +1,355 @@
+
+
+track minus
+shortLabel minus
+longLabel minus
+type bigWig
+autoScale on
+visibility full
+compositeTrack on
+
+    track Bojan_nG0.str2
+    parent minus on
+    bigDataUrl CAGE/Bojan_nG0.str2.bw
+    shortLabel Bojan_nG0.str2
+    longLabel Bojan_nG0.str2
+    type bigWig
+    color 0,0,255
+    visibility full
+    maxHeightPixels 100:32:8
+    autoscale group
+    autoScale on
+
+    track Bojan_nG1.str2
+    parent minus on
+    bigDataUrl CAGE/Bojan_nG1.str2.bw
+    shortLabel Bojan_nG1.str2
+    longLabel Bojan_nG1.str2
+    type bigWig
+    color 0,0,255
+    visibility full
+    maxHeightPixels 100:32:8
+    autoscale group
+    autoScale on
+
+    track Bojan_nG2.str2
+    parent minus on
+    bigDataUrl CAGE/Bojan_nG2.str2.bw
+    shortLabel Bojan_nG2.str2
+    longLabel Bojan_nG2.str2
+    type bigWig
+    color 0,0,255
+    visibility full
+    maxHeightPixels 100:32:8
+    autoscale group
+    autoScale on
+
+    track Bojan_nS.str2
+    parent minus on
+    bigDataUrl CAGE/Bojan_nS.str2.bw
+    shortLabel Bojan_nS.str2
+    longLabel Bojan_nS.str2
+    type bigWig
+    color 0,0,255
+    visibility full
+    maxHeightPixels 100:32:8
+    autoscale group
+    autoScale on
+
+    track Bojan_totalG0.str2
+    parent minus on
+    bigDataUrl CAGE/Bojan_totalG0.str2.bw
+    shortLabel Bojan_totalG0.str2
+    longLabel Bojan_totalG0.str2
+    type bigWig
+    color 0,0,255
+    visibility full
+    maxHeightPixels 100:32:8
+    autoscale group
+    autoScale on
+
+    track Bojan_totalG1.str2
+    parent minus on
+    bigDataUrl CAGE/Bojan_totalG1.str2.bw
+    shortLabel Bojan_totalG1.str2
+    longLabel Bojan_totalG1.str2
+    type bigWig
+    color 0,0,255
+    visibility full
+    maxHeightPixels 100:32:8
+    autoscale group
+    autoScale on
+
+    track Bojan_totalG2.str2
+    parent minus on
+    bigDataUrl CAGE/Bojan_totalG2.str2.bw
+    shortLabel Bojan_totalG2.str2
+    longLabel Bojan_totalG2.str2
+    type bigWig
+    color 0,0,255
+    visibility full
+    maxHeightPixels 100:32:8
+    autoscale group
+    autoScale on
+
+    track Bojan_totalM_rep2.str2
+    parent minus on
+    bigDataUrl CAGE/Bojan_totalM_rep2.str2.bw
+    shortLabel Bojan_totalM_rep2.str2
+    longLabel Bojan_totalM_rep2.str2
+    type bigWig
+    color 0,0,255
+    visibility full
+    maxHeightPixels 100:32:8
+    autoscale group
+    autoScale on
+
+    track Bojan_totalM_rep3.str2
+    parent minus on
+    bigDataUrl CAGE/Bojan_totalM_rep3.str2.bw
+    shortLabel Bojan_totalM_rep3.str2
+    longLabel Bojan_totalM_rep3.str2
+    type bigWig
+    color 0,0,255
+    visibility full
+    maxHeightPixels 100:32:8
+    autoscale group
+    autoScale on
+
+    track Bojan_totalS.str2
+    parent minus on
+    bigDataUrl CAGE/Bojan_totalS.str2.bw
+    shortLabel Bojan_totalS.str2
+    longLabel Bojan_totalS.str2
+    type bigWig
+    color 0,0,255
+    visibility full
+    maxHeightPixels 100:32:8
+    autoscale group
+    autoScale on
+
+    track Fabio_nG0.str2
+    parent minus on
+    bigDataUrl CAGE/Fabio_nG0.str2.bw
+    shortLabel Fabio_nG0.str2
+    longLabel Fabio_nG0.str2
+    type bigWig
+    color 0,0,255
+    visibility full
+    maxHeightPixels 100:32:8
+    autoscale group
+    autoScale on
+
+    track Fabio_nG1.str2
+    parent minus on
+    bigDataUrl CAGE/Fabio_nG1.str2.bw
+    shortLabel Fabio_nG1.str2
+    longLabel Fabio_nG1.str2
+    type bigWig
+    color 0,0,255
+    visibility full
+    maxHeightPixels 100:32:8
+    autoscale group
+    autoScale on
+
+    track Fabio_nG2.str2
+    parent minus on
+    bigDataUrl CAGE/Fabio_nG2.str2.bw
+    shortLabel Fabio_nG2.str2
+    longLabel Fabio_nG2.str2
+    type bigWig
+    color 0,0,255
+    visibility full
+    maxHeightPixels 100:32:8
+    autoscale group
+    autoScale on
+
+    track Fabio_nS.str2
+    parent minus on
+    bigDataUrl CAGE/Fabio_nS.str2.bw
+    shortLabel Fabio_nS.str2
+    longLabel Fabio_nS.str2
+    type bigWig
+    color 0,0,255
+    visibility full
+    maxHeightPixels 100:32:8
+    autoscale group
+    autoScale on
+
+
+track plus
+shortLabel plus
+longLabel plus
+type bigWig
+autoScale on
+visibility full
+compositeTrack on
+
+    track Bojan_nG0.str1
+    parent plus on
+    bigDataUrl CAGE/Bojan_nG0.str1.bw
+    shortLabel Bojan_nG0.str1
+    longLabel Bojan_nG0.str1
+    type bigWig
+    color 255,0,0
+    visibility full
+    maxHeightPixels 100:32:8
+    autoscale group
+    autoScale on
+
+    track Bojan_nG1.str1
+    parent plus on
+    bigDataUrl CAGE/Bojan_nG1.str1.bw
+    shortLabel Bojan_nG1.str1
+    longLabel Bojan_nG1.str1
+    type bigWig
+    color 255,0,0
+    visibility full
+    maxHeightPixels 100:32:8
+    autoscale group
+    autoScale on
+
+    track Bojan_nG2.str1
+    parent plus on
+    bigDataUrl CAGE/Bojan_nG2.str1.bw
+    shortLabel Bojan_nG2.str1
+    longLabel Bojan_nG2.str1
+    type bigWig
+    color 255,0,0
+    visibility full
+    maxHeightPixels 100:32:8
+    autoscale group
+    autoScale on
+
+    track Bojan_nS.str1
+    parent plus on
+    bigDataUrl CAGE/Bojan_nS.str1.bw
+    shortLabel Bojan_nS.str1
+    longLabel Bojan_nS.str1
+    type bigWig
+    color 255,0,0
+    visibility full
+    maxHeightPixels 100:32:8
+    autoscale group
+    autoScale on
+
+    track Bojan_totalG0.str1
+    parent plus on
+    bigDataUrl CAGE/Bojan_totalG0.str1.bw
+    shortLabel Bojan_totalG0.str1
+    longLabel Bojan_totalG0.str1
+    type bigWig
+    color 255,0,0
+    visibility full
+    maxHeightPixels 100:32:8
+    autoscale group
+    autoScale on
+
+    track Bojan_totalG1.str1
+    parent plus on
+    bigDataUrl CAGE/Bojan_totalG1.str1.bw
+    shortLabel Bojan_totalG1.str1
+    longLabel Bojan_totalG1.str1
+    type bigWig
+    color 255,0,0
+    visibility full
+    maxHeightPixels 100:32:8
+    autoscale group
+    autoScale on
+
+    track Bojan_totalG2.str1
+    parent plus on
+    bigDataUrl CAGE/Bojan_totalG2.str1.bw
+    shortLabel Bojan_totalG2.str1
+    longLabel Bojan_totalG2.str1
+    type bigWig
+    color 255,0,0
+    visibility full
+    maxHeightPixels 100:32:8
+    autoscale group
+    autoScale on
+
+    track Bojan_totalM_rep2.str1
+    parent plus on
+    bigDataUrl CAGE/Bojan_totalM_rep2.str1.bw
+    shortLabel Bojan_totalM_rep2.str1
+    longLabel Bojan_totalM_rep2.str1
+    type bigWig
+    color 255,0,0
+    visibility full
+    maxHeightPixels 100:32:8
+    autoscale group
+    autoScale on
+
+    track Bojan_totalM_rep3.str1
+    parent plus on
+    bigDataUrl CAGE/Bojan_totalM_rep3.str1.bw
+    shortLabel Bojan_totalM_rep3.str1
+    longLabel Bojan_totalM_rep3.str1
+    type bigWig
+    color 255,0,0
+    visibility full
+    maxHeightPixels 100:32:8
+    autoscale group
+    autoScale on
+
+    track Bojan_totalS.str1
+    parent plus on
+    bigDataUrl CAGE/Bojan_totalS.str1.bw
+    shortLabel Bojan_totalS.str1
+    longLabel Bojan_totalS.str1
+    type bigWig
+    color 255,0,0
+    visibility full
+    maxHeightPixels 100:32:8
+    autoscale group
+    autoScale on
+
+    track Fabio_nG0.str1
+    parent plus on
+    bigDataUrl CAGE/Fabio_nG0.str1.bw
+    shortLabel Fabio_nG0.str1
+    longLabel Fabio_nG0.str1
+    type bigWig
+    color 255,0,0
+    visibility full
+    maxHeightPixels 100:32:8
+    autoscale group
+    autoScale on
+
+    track Fabio_nG1.str1
+    parent plus on
+    bigDataUrl CAGE/Fabio_nG1.str1.bw
+    shortLabel Fabio_nG1.str1
+    longLabel Fabio_nG1.str1
+    type bigWig
+    color 255,0,0
+    visibility full
+    maxHeightPixels 100:32:8
+    autoscale group
+    autoScale on
+
+    track Fabio_nG2.str1
+    parent plus on
+    bigDataUrl CAGE/Fabio_nG2.str1.bw
+    shortLabel Fabio_nG2.str1
+    longLabel Fabio_nG2.str1
+    type bigWig
+    color 255,0,0
+    visibility full
+    maxHeightPixels 100:32:8
+    autoscale group
+    autoScale on
+
+    track Fabio_nS.str1
+    parent plus on
+    bigDataUrl CAGE/Fabio_nS.str1.bw
+    shortLabel Fabio_nS.str1
+    longLabel Fabio_nS.str1
+    type bigWig
+    color 255,0,0
+    visibility full
+    maxHeightPixels 100:32:8
+    autoscale group
+    autoScale on
+
